@@ -1,0 +1,5 @@
+c:\users\abellini\documents\visual studio 2015\Projects\LinqToObject\LinqToObject\bin\Debug\LinqToObject.exe.config
+c:\users\abellini\documents\visual studio 2015\Projects\LinqToObject\LinqToObject\bin\Debug\LinqToObject.exe
+c:\users\abellini\documents\visual studio 2015\Projects\LinqToObject\LinqToObject\bin\Debug\LinqToObject.pdb
+c:\users\abellini\documents\visual studio 2015\Projects\LinqToObject\LinqToObject\obj\Debug\LinqToObject.exe
+c:\users\abellini\documents\visual studio 2015\Projects\LinqToObject\LinqToObject\obj\Debug\LinqToObject.pdb
